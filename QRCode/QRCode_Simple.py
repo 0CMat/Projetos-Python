@@ -5,7 +5,7 @@
 import qrcode # importando o QRCode
 from PIL import Image  # Importando o Image do PIL
 
-img = qrcode.make('https://github.com/0CMat')
-img.save('0CMatCod2.png')
+img = qrcode.make('https://www.youtube.com/watch?v=wT7qyep-RGA')
+img.save('borabill.png')
 
 print('QRCode gerado com sucesso!')
