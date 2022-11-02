@@ -4,7 +4,7 @@ print('Bem-vindo ao gerador de senhas!')
 
 chars = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!?@$%&^*(),.;/1234567890'
 
-number = int(input('Quantidade senhas para ser gerados::\n'))
+number = int(input('Quantidade senhas para ser gerados:\n'))
 length = int(input('Digite o tamanho da senha a ser gerada:\n'))
 
 print('Senhas geradas:\n')
